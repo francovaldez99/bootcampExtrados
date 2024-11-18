@@ -1,0 +1,14 @@
+C:\Users\franc\source\repos\TrabajoPiezasAjedrez\TrabajoPiezasAjedrez\bin\Debug\net8.0\TrabajoPiezasAjedrez.exe
+C:\Users\franc\source\repos\TrabajoPiezasAjedrez\TrabajoPiezasAjedrez\bin\Debug\net8.0\TrabajoPiezasAjedrez.deps.json
+C:\Users\franc\source\repos\TrabajoPiezasAjedrez\TrabajoPiezasAjedrez\bin\Debug\net8.0\TrabajoPiezasAjedrez.runtimeconfig.json
+C:\Users\franc\source\repos\TrabajoPiezasAjedrez\TrabajoPiezasAjedrez\bin\Debug\net8.0\TrabajoPiezasAjedrez.dll
+C:\Users\franc\source\repos\TrabajoPiezasAjedrez\TrabajoPiezasAjedrez\bin\Debug\net8.0\TrabajoPiezasAjedrez.pdb
+C:\Users\franc\source\repos\TrabajoPiezasAjedrez\TrabajoPiezasAjedrez\obj\Debug\net8.0\TrabajoPiezasAjedrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\TrabajoPiezasAjedrez\TrabajoPiezasAjedrez\obj\Debug\net8.0\TrabajoPiezasAjedrez.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\TrabajoPiezasAjedrez\TrabajoPiezasAjedrez\obj\Debug\net8.0\TrabajoPiezasAjedrez.AssemblyInfo.cs
+C:\Users\franc\source\repos\TrabajoPiezasAjedrez\TrabajoPiezasAjedrez\obj\Debug\net8.0\TrabajoPiezasAjedrez.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\TrabajoPiezasAjedrez\TrabajoPiezasAjedrez\obj\Debug\net8.0\TrabajoPiezasAjedrez.dll
+C:\Users\franc\source\repos\TrabajoPiezasAjedrez\TrabajoPiezasAjedrez\obj\Debug\net8.0\refint\TrabajoPiezasAjedrez.dll
+C:\Users\franc\source\repos\TrabajoPiezasAjedrez\TrabajoPiezasAjedrez\obj\Debug\net8.0\TrabajoPiezasAjedrez.pdb
+C:\Users\franc\source\repos\TrabajoPiezasAjedrez\TrabajoPiezasAjedrez\obj\Debug\net8.0\TrabajoPiezasAjedrez.genruntimeconfig.cache
+C:\Users\franc\source\repos\TrabajoPiezasAjedrez\TrabajoPiezasAjedrez\obj\Debug\net8.0\ref\TrabajoPiezasAjedrez.dll
