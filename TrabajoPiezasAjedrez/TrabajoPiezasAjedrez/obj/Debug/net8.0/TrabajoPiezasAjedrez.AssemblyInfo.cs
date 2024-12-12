@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrabajoPiezasAjedrez")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eabd1723bce8f4a8256ab8357e19419fb0d14ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrabajoPiezasAjedrez")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrabajoPiezasAjedrez")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

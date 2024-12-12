@@ -1,0 +1,6 @@
+@hascontraseña_HostAddress = http://localhost:5220
+
+GET {{hascontraseña_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

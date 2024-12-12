@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Personal\\BOOTCAMP MOBILE EXTRADOS\\C#\\ConexionDB_Borrado_logico\\Conexion_db_borrado_logico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF93EE56-7669-4318-97F2-619DBD3DBBAA}|Conexion_db_borrado_logico\\Conexion_db_borrado_logico.csproj|c:\\users\\franc\\onedrive\\escritorio\\personal\\bootcamp mobile extrados\\c#\\conexiondb_borrado_logico\\conexion_db_borrado_logico\\conexion_db_borrado_logico\\daos\\daousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF93EE56-7669-4318-97F2-619DBD3DBBAA}|Conexion_db_borrado_logico\\Conexion_db_borrado_logico.csproj|solutionrelative:conexion_db_borrado_logico\\daos\\daousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF93EE56-7669-4318-97F2-619DBD3DBBAA}|Conexion_db_borrado_logico\\Conexion_db_borrado_logico.csproj|c:\\users\\franc\\onedrive\\escritorio\\personal\\bootcamp mobile extrados\\c#\\conexiondb_borrado_logico\\conexion_db_borrado_logico\\conexion_db_borrado_logico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF93EE56-7669-4318-97F2-619DBD3DBBAA}|Conexion_db_borrado_logico\\Conexion_db_borrado_logico.csproj|solutionrelative:conexion_db_borrado_logico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF93EE56-7669-4318-97F2-619DBD3DBBAA}|Conexion_db_borrado_logico\\Conexion_db_borrado_logico.csproj|c:\\users\\franc\\onedrive\\escritorio\\personal\\bootcamp mobile extrados\\c#\\conexiondb_borrado_logico\\conexion_db_borrado_logico\\conexion_db_borrado_logico\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF93EE56-7669-4318-97F2-619DBD3DBBAA}|Conexion_db_borrado_logico\\Conexion_db_borrado_logico.csproj|solutionrelative:conexion_db_borrado_logico\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAOUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Personal\\BOOTCAMP MOBILE EXTRADOS\\C#\\ConexionDB_Borrado_logico\\Conexion_db_borrado_logico\\Conexion_db_borrado_logico\\DAOs\\DAOUsuario.cs",
+              "RelativeDocumentMoniker": "Conexion_db_borrado_logico\\DAOs\\DAOUsuario.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Personal\\BOOTCAMP MOBILE EXTRADOS\\C#\\ConexionDB_Borrado_logico\\Conexion_db_borrado_logico\\Conexion_db_borrado_logico\\DAOs\\DAOUsuario.cs",
+              "RelativeToolTip": "Conexion_db_borrado_logico\\DAOs\\DAOUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:28:53.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Personal\\BOOTCAMP MOBILE EXTRADOS\\C#\\ConexionDB_Borrado_logico\\Conexion_db_borrado_logico\\Conexion_db_borrado_logico\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Conexion_db_borrado_logico\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Personal\\BOOTCAMP MOBILE EXTRADOS\\C#\\ConexionDB_Borrado_logico\\Conexion_db_borrado_logico\\Conexion_db_borrado_logico\\Models\\Usuario.cs",
+              "RelativeToolTip": "Conexion_db_borrado_logico\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:28:40.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Personal\\BOOTCAMP MOBILE EXTRADOS\\C#\\ConexionDB_Borrado_logico\\Conexion_db_borrado_logico\\Conexion_db_borrado_logico\\Program.cs",
+              "RelativeDocumentMoniker": "Conexion_db_borrado_logico\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Personal\\BOOTCAMP MOBILE EXTRADOS\\C#\\ConexionDB_Borrado_logico\\Conexion_db_borrado_logico\\Conexion_db_borrado_logico\\Program.cs",
+              "RelativeToolTip": "Conexion_db_borrado_logico\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:27:27.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
